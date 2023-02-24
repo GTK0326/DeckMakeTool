@@ -1,7 +1,8 @@
-DeckMakeToolとは。
-Pythonを使って、画像60枚を横10枚縦6枚の1つの画像に変換し、その後、横幅4320pixelの1秒のMP4動画に変換するものです。
+What is DeckMakeTool
+It uses Python to convert 60 images into a single image of 10 horizontal and 6 vertical, and then into a 1-second MP4 video of 4320 pixels wide.
+You can use this to bring your own Pokémon Card deck into the VRChat world.
 
-どのように利用すればよいか。
-１．「input」フォルダに、該当するデッキのカード画像(.jpg)を60枚追加してください。それら以外にjpg画像を配置しないでください。
-２．「deckmake.bat」を実行してください。
-３．「output」フォルダに、MP4動画が出力されます。
+How to use
+1. Add 60 card images (.jpg) of the appropriate deck to the "input" folder. Do not place jpg images other than those.
+2. Run "deckmake.bat".
+3. MP4 movies will be output to the "output" folder.
